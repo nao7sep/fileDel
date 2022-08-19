@@ -10,13 +10,13 @@
 
 ## 使い方
 
-https://github.com/nao7sep/fileDel/tree/main/Archived から最新版をダウンロードします（現在のところ、Windows 版のみですが、Mac でコンパイルすれば Mac でも動くかもしれません）。
+https://github.com/nao7sep/fileDel/tree/main/Archived から最新版をダウンロードします。
 
 アーカイブ内の Compiled ディレクトリーを展開します。
 
 削除したいディレクトリーやファイルを fileDel.exe にドラッグ＆ドロップすれば削除されます。
 
-一度削除されたものの絶対パスは、TargetPaths.txt に記録されます。
+一度削除されたものの絶対パスが TargetPaths.txt に記録されます。
 
 次回からは、fileDel.exe の実行により、一度削除されたものがまた存在していれば削除できます。
 
