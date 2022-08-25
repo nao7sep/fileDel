@@ -26,6 +26,6 @@ https://github.com/nao7sep/fileDel/tree/main/Archived から最新版をダウ�
 
 * 井ノ口
 * https://twitter.com/nao7sep
-* nao@cealla.com
+* nao7sep@gmail.com
 
 「こういうツールを書いてほしい」も、良いアイデアをいただければがんばります。
