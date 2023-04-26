@@ -11,3 +11,5 @@ Archived
 fileDel/bin
 fileDel/obj
 .gitignore
+README.md
+taskKiller.txt
