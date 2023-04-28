@@ -7,9 +7,5 @@ fileDel/bin/Release/net6.0 > Compiled
 [Exclude]
 .git
 .vs
-Archived
-fileDel/bin
-fileDel/obj
-.gitignore
-README.md
-taskKiller.txt
+bin
+obj
