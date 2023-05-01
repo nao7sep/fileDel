@@ -7,5 +7,5 @@ fileDel/bin/Release/net6.0 > Compiled
 [Exclude]
 .git
 .vs
-bin
-obj
+fileDel/bin
+fileDel/obj
