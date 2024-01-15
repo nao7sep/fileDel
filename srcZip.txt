@@ -1,8 +1,11 @@
 ﻿[Delete]
-Compiled
+App
 
 [Copy]
-fileDel/bin/Release/net6.0 > Compiled
+fileDel/bin/Release/net6.0 > App
+
+[Delete]
+App/fileDel.pdb
 
 [Exclude]
 .git
